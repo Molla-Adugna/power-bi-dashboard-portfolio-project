@@ -1,10 +1,8 @@
 
 # 📉Data Jobs Dashboard 2.0 w/ Power BI
-<a href="https://app.powerbi.com/groups/me/reports/6b32c68f-3aec-4072-a88f-3e6f505c13c0/4027dc13994498a3ea3c?experience=power-bi" target="_blank">
-<img src="../images/Project2_Dashboard_Overview.gif" alt="Data Jobs Dashboard GIF">
-</a>
+![Dashboard Overview](https://github.com/Molla-Adugna/power-bi-dashboard-portfolio-project/blob/main/project2/images/Project2_Dashboard_Overview.gif.gif?raw=true)
 
-<a href="https://app.powerbi.com/groups/me/reports/6b32c68f-3aec-4072-a88f-3e6f505c13c0/4027dc13994498a3ea3c?experience=power-bi" target="_blank">📊 View interactive dashboard here on the Power BI Service</a>
+[🌐 View Interactive Dashboard on Power BI Service](https://app.powerbi.com/groups/me/reports/5f9af35e-a9f6-4581-83a2-4e3d5f851e95/d56c5864b01a36069bb6?experience=power-bi)
 
 ## Introduction
 Navigating the data job market can feel overwhelming, with information scattered across multiple sources. This dashboard (V2.0) is designed specifically for Job Seekers, Career Transitioners, and Job Swappers to cut through the clutter. Using a real‑world dataset of 2024 data science job postings — rich with details on job titles, salaries, and locations — this project offers a streamlined, single‑page interface to quickly explore crucial market trends and compensation insights.
