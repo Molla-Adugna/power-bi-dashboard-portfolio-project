@@ -1,10 +1,8 @@
 # Data Jobs Dashboard w/ Power BI
 
-<a href="https://lukeb.co/powerbi-project1" target="_blank">
-  <img src="../Resources/images/Project1_Dashboard_Overview.gif" alt="Data Jobs Dashboard GIF">
-</a>
+![Dashboard Overview](https://github.com/Molla-Adugna/power-bi-dashboard-portfolio-project/blob/main/project1/images/Project1_Dashboard_Overview.gif.gif?raw=true)
 
-> <a href="https://lukeb.co/powerbi-project1" target="_blank">📊 View interactive dashboard here on the Power BI Service</a>
+[🌐 View Interactive Dashboard on Power BI Service](https://tinyurl.com/mr2j8mz5)
 
 
 ## Introduction
