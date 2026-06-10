@@ -6,7 +6,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 # 📉 Data Jobs Dashboard (V1 – Comprehensive Exploration)
 
-![Dashboard Overview](./Project2/images/Project2_Dashboard_Overview.gif)
+![Dashboard Overview](https://github.com/Molla-Adugna/power-bi-dashboard-portfolio-project/blob/main/project1/images/Project1_Dashboard_Overview.gif.gif?raw=true)
 
 [🌐 View Interactive Dashboard on Power BI Service](https://tinyurl.com/mr2j8mz5)
 
@@ -35,7 +35,7 @@ This initial dashboard provides a comprehensive two‑page exploration of the da
 
 ➡️ Drill‑Through Functionality  
 
-[➡️ **View Full Project 1 Details (README)**](https://github.com/Molla-Adugna/power-bi-dashboard-portfolio/blob/main/project1-README.md)
+[➡️ **View Full Project 1 Details (README)**](https://github.com/Molla-Adugna/power-bi-dashboard-portfolio-project/tree/main/project1)
 
 
 # 📊 Data Jobs Dashboard 2.0 (V2 – Single‑Page Focus)
