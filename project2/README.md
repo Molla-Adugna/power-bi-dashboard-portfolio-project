@@ -42,12 +42,17 @@ This project highlights key Power BI features and practices:
 ## Dashboard Overview (Version 2.0 – Single Page Focus)
 This second iteration consolidates the dashboard into a single, focused page, designed to give job seekers the most critical market insights at their fingertips.
 
-![Dashboard Overview](./images/ProjectX_Dashboard_Overview.gif)  
-
-![Dashboard Page](./images/ProjectX_Dashboard_Page1.png)  
+![Dashboard Overview](https://github.com/Molla-Adugna/power-bi-dashboard-portfolio-project/blob/main/project2/images/Project2_Dashboard_Overview.gif.gif?raw=true)  
 
 
-This page acts as a concise mission control for the data job market. It showcases KPIs such as Job Count, Skills Per Job, Median Yearly Salary, and Median Hourly Salary. Users can also explore Skill Popularity (by job percent or count) and compare Salaries across different Job Titles, all designed for efficient decision‑making.
+
+  
+
+This page acts as a concise mission control for the data job market. It showcases KPIs such as Job Count, Skills Per Job, Median Yearly Salary, and Median Hourly Salary. Users can also explore Skill Popularity (by job percent or count) and compare Salaries across different Job Titles, all designed for efficient decision‑making.  
+
+
+    
+![Dashboard Page](https://github.com/Molla-Adugna/power-bi-dashboard-portfolio-project/blob/main/project2/images/Project2_Dashboard_Key_features.png.png?raw=true)  
 
 ## Conclusion
 This updated dashboard (Version 2.0) demonstrates Power BI’s ability to transform extensive job posting data into a streamlined tool for career analysis. It empowers Job Seekers, Career Transitioners, and Job Swappers by enabling them to filter and explore essential market insights efficiently on a single page, helping them make informed decisions about their next career move.
