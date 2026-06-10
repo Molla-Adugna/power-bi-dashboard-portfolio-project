@@ -8,8 +8,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 ![Dashboard Overview](./Project2/images/Project2_Dashboard_Overview.gif)
 
-
-[🌐 View Interactive Dashboard on Power BI Service](https://app.powerbi.com/groups/me/reports/<your-report-id>)
+[🌐 View Interactive Dashboard on Power BI Service](https://tinyurl.com/mr2j8mz5)
 
 
 This initial dashboard provides a comprehensive two‑page exploration of the data job market, designed for job seekers. It features a high‑level summary page and a detailed drill‑through page for specific job titles, offering a broad look at market trends and compensation.
