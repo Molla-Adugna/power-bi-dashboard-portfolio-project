@@ -55,4 +55,6 @@ This page acts as a concise mission control for the data job market. It showcase
 ![Dashboard Page](https://github.com/Molla-Adugna/power-bi-dashboard-portfolio-project/blob/main/project2/images/Project2_Dashboard_Key_features.png.png?raw=true)  
 
 ## Conclusion
-This updated dashboard (Version 2.0) demonstrates Power BI’s ability to transform extensive job posting data into a streamlined tool for career analysis. It empowers Job Seekers, Career Transitioners, and Job Swappers by enabling them to filter and explore essential market insights efficiently on a single page, helping them make informed decisions about their next career move.
+This updated dashboard (Version 2.0) demonstrates Power BI’s ability to transform extensive job posting data into a streamlined tool for career analysis. It empowers Job Seekers, Career Transitioners, and Job Swappers by enabling them to filter and explore essential market insights efficiently on a single page, helping them make informed decisions about their next career move.  
+
+  [![YouTube](https://img.shields.io/badge/View%20Recorded%20Project%20Demo-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=HKi7EXeWH_I)
