@@ -30,7 +30,7 @@ This project was a journey through key Power BI features. Here's a look at what 
 
 ## Dashboard Overview
 
-*This report is splitted into two distinct pages to provide both a high-level summary and a detailed analysis.*
+*This report is splitted into two distinct pages to provide both a high-level summary and a drill through (a detailed analysis).*
 
 ### Page 1: High-Level Market View
 
