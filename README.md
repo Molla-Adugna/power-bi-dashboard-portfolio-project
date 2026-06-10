@@ -39,9 +39,10 @@ This initial dashboard provides a comprehensive two‑page exploration of the da
 
 
 # 📊 Data Jobs Dashboard 2.0 (V2 – Single‑Page Focus)
-![Dashboard Overview](./Project2/images/Project2_Dashboard_Overview.gif)
 
-[🌐 View Interactive Dashboard on Power BI Service](https://app.powerbi.com/groups/me/reports/<your-report-id>)
+![Dashboard Overview](https://github.com/Molla-Adugna/power-bi-dashboard-portfolio-project/blob/main/project2/images/Project2_Dashboard_Overview.gif.gif?raw=true)
+
+[🌐 View Interactive Dashboard on Power BI Service](https://app.powerbi.com/groups/me/reports/5f9af35e-a9f6-4581-83a2-4e3d5f851e95/d56c5864b01a36069bb6?experience=power-bi)
 
 Version 2.0 of the Data Jobs Dashboard streamlines the analysis into a highly focused, single‑page experience. It’s optimized to deliver the most critical insights quickly to job seekers, featuring dynamic interactions and more advanced analytical capabilities.
 
@@ -67,7 +68,7 @@ Version 2.0 of the Data Jobs Dashboard streamlines the analysis into a highly fo
 
 ✨ Report Performance Considerations
 
-[➡️ **View Full Project 1 Details (README)**](https://github.com/Molla-Adugna/power-bi-dashboard-portfolio/blob/main/project1-README.md)
+[➡️ **View Full Project 2 Details (README)**](https://github.com/Molla-Adugna/power-bi-dashboard-portfolio-project/tree/main/project2)
 
 ## About This Portfolio
 Each dashboard linked above has its own detailed README.md file within its respective project folder. These offer deeper insights into the project objectives, data sources, specific Power BI techniques employed, and a closer look at the dashboard build.
